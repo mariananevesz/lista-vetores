@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections.Specialized;
 
 namespace variaveisEstruturda{
@@ -18,10 +18,6 @@ namespace variaveisEstruturda{
                 vetor[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-           /* for(int i=0; i<vetor.Length; i++){ 
-                Console.WriteLine("Vetor["+i+"]" + vetor[i]);
-            }*/
-
             for (int i = 0; i<vetor.Length; i++){
                 if (vetor[i] % 2 == 0){
                     soma = soma + vetor[i];
@@ -34,4 +30,4 @@ namespace variaveisEstruturda{
             Console.WriteLine("A quantidade de números pares dentro do Vetor é: "+qtdNums);
         }
     }
-}
+}*/
