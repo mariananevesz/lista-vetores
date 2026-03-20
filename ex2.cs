@@ -1,9 +1,12 @@
-/*using System;
+using System;
+using System.Collections.Specialized;
 
 namespace variaveisEstruturdas{
-   class ex1{
+   class ex2{
         static void Main(string[] args){
-        int n;
+        int n, maiorNum, posicao;
+        posicao = 0;
+
             Console.WriteLine("Digite o tamanho do vetor: "); 
             n = Convert.ToInt32(Console.ReadLine());
             int[] vetor = new int[n]; 
@@ -17,11 +20,15 @@ namespace variaveisEstruturdas{
                 Console.WriteLine("Vetor["+i+"]" + vetor[i]);
             }
 
-            for(int i = n-1; i>=0; --i){ 
-                Console.WriteLine("Vetor Reverso["+i+"]"+vetor[i]);
+             maiorNum = vetor[0];
+            for(int i = 0; i<vetor.Length; i++){ 
+               if(vetor[i]>maiorNum){
+                maiorNum = vetor[i];
+                posicao = i;
+               }
             }
-            
+            Console.WriteLine("O maior número pertence ao Vetor["+posicao+"] = " + maiorNum);
         }
     }
-}*/
+}
 
