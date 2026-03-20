@@ -3,3 +3,13 @@ C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-
 C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.AssemblyInfo.cs
 C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.csproj.CoreCompileInputs.cache
 C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.sourcelink.json
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\bin\Debug\net10.0\lista-vetores.exe
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\bin\Debug\net10.0\lista-vetores.deps.json
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\bin\Debug\net10.0\lista-vetores.runtimeconfig.json
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\bin\Debug\net10.0\lista-vetores.dll
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\bin\Debug\net10.0\lista-vetores.pdb
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.dll
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\refint\lista-vetores.dll
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.pdb
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.genruntimeconfig.cache
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\ref\lista-vetores.dll
