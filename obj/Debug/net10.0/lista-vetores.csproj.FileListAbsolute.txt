@@ -1,0 +1,5 @@
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.AssemblyInfoInputs.cache
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.AssemblyInfo.cs
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.csproj.CoreCompileInputs.cache
+C:\Users\neves\OneDrive\Área de Trabalho\lista-vetores\obj\Debug\net10.0\lista-vetores.sourcelink.json
