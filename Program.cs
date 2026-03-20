@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 
 namespace variaveisEstruturdas{
    class Program{
@@ -24,4 +24,4 @@ namespace variaveisEstruturdas{
             Console.WriteLine("A soma dos vetores é: "+soma);
         }
     }
-}
+}*/
