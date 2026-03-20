@@ -1,4 +1,4 @@
-using System;
+/*using System;
 
 namespace variaveisEstruturda{
    class ex8{
@@ -22,8 +22,8 @@ namespace variaveisEstruturda{
 
             for (int i = 0; i<vetor.Length; i++){
                 mult = vetor[i] * numConstante;
-                 Console.WriteLine("Vetor["+i+"]"+vetor[i]+" x "+numConstante+" = "+mult);
+                Console.WriteLine("Vetor["+i+"]"+vetor[i]+" x "+numConstante+" = "+mult);
             }
         }
     }
-}
+}*/
