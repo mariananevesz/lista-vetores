@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections.Specialized;
 
 namespace variaveisEstruturda{
@@ -39,4 +39,4 @@ namespace variaveisEstruturda{
             Console.WriteLine("Vetor["+posicaoMenor+"] = " + menorNum);
         }
     }
-}
+}*/
