@@ -1,8 +1,8 @@
-using System;
+/*using System;
 using System.Collections.Specialized;
 
 namespace variaveisEstruturdas{
-   class ex2{
+   class ex3{
         static void Main(string[] args){
         int n, menorNum, posicao;
         posicao = 0;
@@ -30,5 +30,5 @@ namespace variaveisEstruturdas{
             Console.WriteLine("O menor número pertence ao Vetor["+posicao+"] = " + menorNum);
         }
     }
-}
+}*/
 
