@@ -1,12 +1,12 @@
-/*using System;
+using System;
 using System.Collections.Specialized;
 
 namespace variaveisEstruturda{
-   class ex4{
+   class ex5{
         static void Main(string[] args){
-        int n, maiorNum1, maiorNum2, posicaoNum1, posicaoNum2;
-        posicaoNum1 = 0;
-        posicaoNum2 = 0;
+        int n, maiorNum, menorNum, posicaoMaior, posicaoMenor;
+        posicaoMaior = 0;
+        posicaoMenor = 0;
 
             Console.WriteLine("Digite o tamanho do vetor: "); 
             n = Convert.ToInt32(Console.ReadLine());
@@ -21,22 +21,22 @@ namespace variaveisEstruturda{
                 Console.WriteLine("Vetor["+i+"]" + vetor[i]);
             }
 
-             maiorNum1 = vetor[0];
-             maiorNum2 = vetor[0];
+             maiorNum = vetor[0];
+             menorNum = vetor[0];
             for(int i = 0; i<vetor.Length; i++){ 
-               if(vetor[i]>maiorNum1){
-                maiorNum1 = vetor[i];
-                posicaoNum1 = i;
+               if(vetor[i]>maiorNum){
+                maiorNum = vetor[i];
+                posicaoMaior = i;
                }
-                else if(vetor[i]>maiorNum2)
+                else if(vetor[i]<menorNum)
                 {
-                    maiorNum2 = vetor[i];
-                    posicaoNum2 = i;
+                    menorNum = vetor[i];
+                    posicaoMenor = i;
                 }
             }
-            Console.WriteLine("Os maiores números pertencem a:");
-            Console.WriteLine("Vetor["+posicaoNum1+"] = " + maiorNum1);
-            Console.WriteLine("Vetor["+posicaoNum2+"] = " + maiorNum2);
+            Console.WriteLine("Os maior e o menor número pertencem respectivamente a:");
+            Console.WriteLine("Vetor["+posicaoMaior+"] = " + maiorNum);
+            Console.WriteLine("Vetor["+posicaoMenor+"] = " + menorNum);
         }
     }
-}*/
+}
