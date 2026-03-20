@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.Collections.Specialized;
 
 namespace variaveisEstruturda{
@@ -41,4 +41,4 @@ namespace variaveisEstruturda{
 
             }
         }
-    }
+    }*/
