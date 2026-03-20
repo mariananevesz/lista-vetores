@@ -21,7 +21,7 @@ namespace variaveisEstruturda{
                 }
             media = soma/n;
 
-            Console.WriteLine("A soma dos salários dentro dos Vetores é: "+soma);
+            Console.WriteLine("A média das temperaturas é: "+media);
         }    
     }
 }
