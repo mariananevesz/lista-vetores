@@ -1,7 +1,7 @@
-using System;
+/*using System;
 
 namespace variaveisEstruturda{
-   class ex12{
+   class ex13{
         static void Main(string[] args){
         int n, numElevado; 
         double soma,MQR;
@@ -27,4 +27,4 @@ namespace variaveisEstruturda{
             Console.WriteLine("A Média da Raiz Quadrada é: "+MQR);
         }    
     }
-}
+}*/
