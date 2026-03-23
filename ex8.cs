@@ -5,7 +5,6 @@ namespace variaveisEstruturda{
         static void Main(string[] args){
         int n;
         double  mult, numConstante;
-        mult = 1;
 
             Console.WriteLine("Digite o tamanho do vetor: "); 
             n = Convert.ToInt32(Console.ReadLine());
