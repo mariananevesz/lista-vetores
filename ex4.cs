@@ -6,7 +6,7 @@ namespace variaveisEstruturda{
         static void Main(string[] args){
         int n, maiorNum1, maiorNum2, posicaoNum1, posicaoNum2;
         posicaoNum1 = 0;
-        posicaoNum2 = 0;
+        posicaoNum2 = -1;
 
             Console.WriteLine("Digite o tamanho do vetor: "); 
             n = Convert.ToInt32(Console.ReadLine());
@@ -22,13 +22,16 @@ namespace variaveisEstruturda{
             }
 
              maiorNum1 = vetor[0];
-             maiorNum2 = vetor[0];
+             maiorNum2 = int.MinValue;
+
             for(int i = 0; i<vetor.Length; i++){ 
                if(vetor[i]>maiorNum1){
+                maiorNum2 = maiorNum1;
+                posicaoNum2 = posicaoNum1;
                 maiorNum1 = vetor[i];
                 posicaoNum1 = i;
                }
-                else if(vetor[i]>maiorNum2)
+                else if(vetor[i]>maiorNum2 && i != posicaoNum1)
                 {
                     maiorNum2 = vetor[i];
                     posicaoNum2 = i;
