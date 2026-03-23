@@ -16,7 +16,7 @@ namespace variaveisEstruturda{
             }
 
             for (int i = 0; i<vetor.Length; i++){
-                    soma = (vetor[i]*vetor[i]) + (vetor[i]*vetor[i]) ;
+                    soma += vetor[i]*vetor[i];
                     Console.WriteLine("Vetor["+i+"]"+vetor[i]);
                 }
              Console.WriteLine("A soma dos quadrados dos números é: "+soma);
