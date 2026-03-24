@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lista-vetores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794877adb1d6fa73a3f7f9b851f18c4111359475")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe66112a3b2723cdf93b7d99657e4f5d96da89d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("lista-vetores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lista-vetores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
